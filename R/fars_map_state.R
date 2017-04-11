@@ -1,4 +1,3 @@
-library("maps")
 library("graphics")
 library("dplyr")
 #'The fars_map_state function takes the state number and year as an input and displays a plot
