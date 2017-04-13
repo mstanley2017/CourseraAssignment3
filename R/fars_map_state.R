@@ -1,5 +1,4 @@
 library("graphics")
-library("dplyr")
 #'The fars_map_state function takes the state number and year as an input and displays a plot
 #'of the state with the number of fatalaties mapped as dots at the appropriate location of the
 #'incident. To be able to use this function ensure the maps package is installed
