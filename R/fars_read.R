@@ -1,5 +1,4 @@
 library("readr")
-library("dplyr")
 
 #' Checking the existance of a file
 #'
