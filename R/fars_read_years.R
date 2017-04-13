@@ -1,3 +1,4 @@
+install.packages("dplyr")
 #' The function fars_read_years is used to take the year as an input and create a filename
 #' using make_filename function. The file is then read using the fars_read function. If the year is invalid
 #' it returns an error message

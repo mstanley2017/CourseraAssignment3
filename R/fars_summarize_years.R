@@ -1,3 +1,4 @@
+install.packages("dplyr")
 library("tidyr")
 #' The fars_summarize_years function takes a year as an input and summarizes the number of
 #' accidents by month within the input year specified
