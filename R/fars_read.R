@@ -1,4 +1,3 @@
-library("readr")
 #' Checking the existance of a file
 #'
 #' @param filename takes the file name as an input and checks if it exists
